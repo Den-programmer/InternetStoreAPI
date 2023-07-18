@@ -1,0 +1,35 @@
+{
+  "name": "internetstoreapi",
+  "version": "1.0.0",
+  "description": "The internet store api with node js, express ...",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Den-programmer/InternetStoreAPI.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "store",
+    "e-commerce",
+    "api",
+    "internet",
+    "store"
+  ],
+  "author": "Den Grigorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Den-programmer/InternetStoreAPI/issues"
+  },
+  "homepage": "https://github.com/Den-programmer/InternetStoreAPI#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.4",
+    "nodemon": "^3.0.1"
+  }
+}
